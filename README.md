@@ -22,7 +22,8 @@ Sistem manajemen pemesanan lapangan mini soccer berbasis web yang dirancang untu
   - [PDO](https://www.php.net/manual/en/book.pdo.php) (Database Security)
 
 ## Link Project
-
+1. Link Github https://github.com/Alfarizyye/bookingminisoccer.git
+2. Link Publish bookingminisoccer.infinityfreeapp.com
 
 ## 📦 Instalasi
 
