@@ -42,6 +42,13 @@ Sistem manajemen pemesanan lapangan mini soccer berbasis web yang dirancang untu
    - Akses melalui browser: `http://localhost/booking-minisoccer`.
 
 ---
+### 🔐 Akun Akses Default
+Untuk keperluan pengujian, gunakan akun berikut:
+
+| Role | Email | Password |
+|:---|:---|:---|
+| **Admin** | `admin@gmail.com` | `admin123` |
+| **User** | *(Silakan daftar melalui menu Registrasi)* | - |
 
 ## 🧪 Pengujian Kualitas Aplikasi
 
