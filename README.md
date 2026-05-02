@@ -47,7 +47,7 @@ Untuk keperluan pengujian, gunakan akun berikut:
 
 | Role | Email | Password |
 |:---|:---|:---|
-| **Admin** | `admin@gmail.com` | `admin123` |
+| **Admin** | `admin@minisoccer.com` | `admin123` |
 | **User** | *(Silakan daftar melalui menu Registrasi)* | - |
 
 ## 🧪 Pengujian Kualitas Aplikasi
