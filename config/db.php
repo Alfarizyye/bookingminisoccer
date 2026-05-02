@@ -13,7 +13,7 @@ if ($is_localhost) {
     $host = 'sql200.infinityfree.com'; 
     $dbname = 'if0_41792898_minisoccer_db'; 
     $user = 'if0_41792898'; 
-    $pass = 'MASUKKAN_PASSWORD_ANDA_DISINI'; 
+    $pass = 'Alfarizie21'; 
 }
 
 try {
